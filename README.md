@@ -20,6 +20,7 @@ The solution should minimally demonstrate the following:
   - DataProc (Spark)
   - Composer (Airflow)
   - BigQuery
+  - DataStudio
 - Data Flow
   - Storage > DataProc (Orchestrate by Airflow) > BigQuery
 
@@ -65,3 +66,7 @@ The solution should minimally demonstrate the following:
 ![pic](./misc/q3.png)
 
 - Any other business insights
+
+> It seems ***Comedy*** is the type of genere generate the most revenue
+
+![pic](./misc/q4.png)
